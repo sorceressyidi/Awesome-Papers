@@ -75,9 +75,11 @@ with Temporal Gaussian Hierarchy", *SIGGRAPH Asia 2024 (TOG)*, [[Paper](https://
 * **MegaSaM** :"Accurate, Fast and Robust Structure and Motion from Casual Dynamic Videos", *arXiv Dec 2024*. [[Paper](https://arxiv.org/pdf/2412.04463)] [[Webpage](https://mega-sam.github.io/)][[Code](https://github.com/mega-sam/mega-sam)]
 
 * **CUT3R** : "Continuous 3D Perception Model with Persistent State", *arXiv Dec 2024*. [[Paper](https://arxiv.org/abs/2501.12387)] [[Webpage](https://cut3r.github.io/)] [[Code](https://github.com/CUT3R/CUT3R)]
-------------------------------
 
 * **Align3R** "Align3R : Aligned Monocular Depth Estimation for Dynamic Videos" *arXiv Dec 2024* [[Paper](https://arxiv.org/abs/2412.03079)] [[Webpage](https://igl-hkust.github.io/Align3R.github.io/)] [[Code](https://github.com/jiah-cloud/Align3R)]
+
+------------------------------
+
 
 ### VLLM
 
