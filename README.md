@@ -16,9 +16,11 @@ If you find this repository useful, please consider **STARing** ⭐ this reposit
   - [✨ About](#-about)
   - [📚 Table of Contents](#-table-of-contents)
   - [Awesome Computer Vision Papers](#awesome-computer-vision-papers)
+    - [Matching](#matching)
     - [3D Gaussians and its Variants](#3d-gaussians-and-its-variants)
     - [Human Pose Tracking / Human Pose Estimation](#human-pose-tracking--human-pose-estimation)
     - [4D Reconstruction](#4d-reconstruction)
+      - [Monocular Dynamic Reconstruction](#monocular-dynamic-reconstruction)
     - [Robust, Calibration-free Reconstruction](#robust-calibration-free-reconstruction)
     - [VLLM](#vllm)
     - [Generative Models](#generative-models)
@@ -26,11 +28,20 @@ If you find this repository useful, please consider **STARing** ⭐ this reposit
   - [Awesome Robotics Papers](#awesome-robotics-papers)
 
 ## Awesome Computer Vision Papers
+
+### Matching
+
+* **Efficient LoFTR**: "Efficient LoFTR: Semi-Dense Local Feature Matching with Sparse-Like Speed", *CVPR 2024*. [[Paper](https://zju3dv.github.io/efficientloftr/files/EfficientLoFTR.pdf)] [[Webpage](https://zju3dv.github.io/efficientloftr/)][[Code](https://github.com/zju3dv/efficientloftr)]
+
+* **RoMa**: "RoMa: Robust Dense Feature Matching", *CVPR 2024*. [[Paper](https://arxiv.org/abs/2305.15404)] [[Webpage](https://parskatt.github.io/RoMa/)] [[Code](https://github.com/Parskatt/RoMa)]
+
+* **MatchAnything**: "MatchAnything: Universal Cross-Modality Image Matching with Large-Scale Pre-Training", *arXiv Jan 2025*. [[Paper](https://arxiv.org/abs/2501.07556)] [[Webpage](https://zju3dv.github.io/MatchAnything/)] [[Code](https://github.com/zju3dv/MatchAnything)]
+
 ### 3D Gaussians and its Variants
 
 **[`Compressing` 3D Gaussians]**
 
-**[Survey]** : 3DGS.zip: A survey on 3D Gaussian Splatting Compression Methods [[Webpage](https://w-m.github.io/3dgs-compression-survey/)]
+* **[Survey]** : 3DGS.zip: A survey on 3D Gaussian Splatting Compression Methods [[Webpage](https://w-m.github.io/3dgs-compression-survey/)]
 
 ------------------------------
 
@@ -43,15 +54,18 @@ If you find this repository useful, please consider **STARing** ⭐ this reposit
 ### 4D Reconstruction
 
 * **4D Gaussian Splatting** : "Real-time Photorealistic Dynamic Scene Representation and Rendering with 4D Gaussian Splatting", *ICLR 2024*. [[Paper](https://arxiv.org/pdf/2310.10642)] [[Webpage](https://fudan-zvg.github.io/4d-gaussian-splatting/)] [[Code](https://github.com/fudan-zvg/4d-gaussian-splatting)]
-* **4D Reconstruction from a Single Video** : "Shape of Motion:
-4D Reconstruction from a Single Video", *arXiv Jul 2024*. [[Paper](https://arxiv.org/pdf/2407.13764)] [[Webpage](https://shape-of-motion.github.io/)] [[Code](https://github.com/vye16/shape-of-motion)]
+
 
 * **Temporal Gaussians** : "Representing Long Volumetric Video
 with Temporal Gaussian Hierarchy", *SIGGRAPH Asia 2024 (TOG)*, [[Paper](https://arxiv.org/pdf/2412.09608)] [[Webpage](https://zju3dv.github.io/longvolcap/)] [[Code](https://github.com/zju3dv/EasyVolcap)]
 
-* **Representing Long Volumetric Video with Temporal Gaussian Hierarchy** , SIGGRAPH Asia 2024 (TOG) [[Paper](https://arxiv.org/pdf/2412.09608)] [[Webpage](https://zju3dv.github.io/longvolcap/)] [[Code](https://github.com/zju3dv/EasyVolcap)]
+------------------------------
+#### Monocular Dynamic Reconstruction
 
+* **4D Reconstruction from a Single Video** : "Shape of Motion:
+4D Reconstruction from a Single Video", *arXiv Jul 2024*. [[Paper](https://arxiv.org/pdf/2405.02280)] [[Webpage](https://dreamscene4d.github.io/)] [[Code](https://github.com/dreamscene4d/dreamscene4d)]
 
+* **DreamScene4D**: "DreamScene4D: Dynamic Multi-Object Scene Generation from Monocular Videos" *NeurIPS 2024*. [[Paper](https://arxiv.org/abs/2406.01584)] [[Webpage](https://www.anjiecheng.me/DreamScene4D)] [[Code](https://github.com/dreamscene4d/dreamscene4d)]
 
 ------------------------------
 
@@ -103,4 +117,7 @@ with Temporal Gaussian Hierarchy", *SIGGRAPH Asia 2024 (TOG)*, [[Paper](https://
 
 * **MegaSynth**: "MegaSynth: scaling up feed-forward 3D scene reconstruction with synthesized scenes", *arxiv Dec 2024*. [[Paper](https://arxiv.org/pdf/2412.14166)] [[Webpage](https://hwjiang1510.github.io/MegaSynth/)] [[Code](https://github.com/hwjiang1510/MegaSynth)]
 
+------------------------------
 ## Awesome Robotics Papers
+
+* **OpenVLA**: "OpenVLA: An Open-Source Vision-Language-Action Model" *CoRL 2024*. [[Paper](https://arxiv.org/abs/2406.09246)] [[Webpage](https://openvla.github.io/)] [[Code](https://github.com/openvla/openvla)]
