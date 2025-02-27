@@ -76,9 +76,15 @@ with Temporal Gaussian Hierarchy", *SIGGRAPH Asia 2024 (TOG)*, [[Paper](https://
 
 * **DUSt3R**: "DUSt3R:Geometric 3D Vision Made Easy", *CVPR 2024*. [[Paper](https://arxiv.org/pdf/2312.14132)] [[Webpage](https://dust3r.europe.naverlabs.com/)] [[Code](https://github.com/naver/dust3r)]
 
-* **MAST3R** : "Grounding Image Matching in 3D with MASt3R", [[Paper](https://arxiv.org/pdf/2406.09756)] [[Webpage](https://europe.naverlabs.com/blog/mast3r-matching-and-stereo-3d-reconstruction/)] [[Code](https://github.com/naver/mast3r)]
+* **MASt3R** : "Grounding Image Matching in 3D with MASt3R", [[Paper](https://arxiv.org/pdf/2406.09756)] [[Webpage](https://europe.naverlabs.com/blog/mast3r-matching-and-stereo-3d-reconstruction/)] [[Code](https://github.com/naver/mast3r)]
 
 * **Splatt3R** : "Splatt3R: Zero-shot Gaussian Splatting from Uncalibrated Image Pairs", *arXiv Aug 2024*. [[Paper](https://arxiv.org/pdf/2408.13912)] [[Webpage](https://splatt3r.active.vision/)] [[Code](https://github.com/btsmart/splatt3r)]
+
+* **SLAM3R** "SLAM3R: Real-Time Dense Scene Reconstruction from Monocular RGB Videos", *arXiv Dec 2024*. [[Paper](https://arxiv.org/abs/2412.09401)] [[Code](https://github.com/PKU-VCL-3DV/SLAM3R)]
+
+* **CUT3R** : "Continuous 3D Perception Model with Persistent State", *arXiv Dec 2024*. [[Paper](https://arxiv.org/abs/2501.12387)] [[Webpage](https://cut3r.github.io/)] [[Code](https://github.com/CUT3R/CUT3R)]
+
+* **Align3R** "Align3R : Aligned Monocular Depth Estimation for Dynamic Videos" *arXiv Dec 2024* [[Paper](https://arxiv.org/abs/2412.03079)] [[Webpage](https://igl-hkust.github.io/Align3R.github.io/)] [[Code](https://github.com/jiah-cloud/Align3R)]
 
 * **MoGe** : "MoGe: Unlocking Accurate Monocular Geometry Estimation for Open-Domain Images with Optimal Training Supervision", *arXiv Nov 2024*. [[Paper](https://arxiv.org/pdf/2410.19115)] [[Webpage](https://wangrc.site/MoGePage/)] [[Code](https://github.com/microsoft/MoGe)]
 
@@ -88,9 +94,6 @@ with Temporal Gaussian Hierarchy", *SIGGRAPH Asia 2024 (TOG)*, [[Paper](https://
 
 * **MegaSaM** :"Accurate, Fast and Robust Structure and Motion from Casual Dynamic Videos", *arXiv Dec 2024*. [[Paper](https://arxiv.org/pdf/2412.04463)] [[Webpage](https://mega-sam.github.io/)][[Code](https://github.com/mega-sam/mega-sam)]
 
-* **CUT3R** : "Continuous 3D Perception Model with Persistent State", *arXiv Dec 2024*. [[Paper](https://arxiv.org/abs/2501.12387)] [[Webpage](https://cut3r.github.io/)] [[Code](https://github.com/CUT3R/CUT3R)]
-
-* **Align3R** "Align3R : Aligned Monocular Depth Estimation for Dynamic Videos" *arXiv Dec 2024* [[Paper](https://arxiv.org/abs/2412.03079)] [[Webpage](https://igl-hkust.github.io/Align3R.github.io/)] [[Code](https://github.com/jiah-cloud/Align3R)]
 
 ------------------------------
 
