@@ -111,6 +111,7 @@ with Temporal Gaussian Hierarchy", *SIGGRAPH Asia 2024 (TOG)*, [[Paper](https://
 
 ### Generative Models
 
+* **Flow Matching** : "Flow Matching for Generative Modeling", *CVPR 2022*. [[Paper](https://arxiv.org/abs/2210.02747)][[Tutorial](https://neurips.cc/virtual/2024/tutorial/99531)]
 * **Interactive 3D Scene Generation from a Single Image**: "WonderWorld: Interactive 3D Scene Generation from a Single Image", *CVPR 2024*. [[Paper](https://arxiv.org/pdf/2406.09394)] [[Webpage](https://kovenyu.com/wonderworld/)] [[Code](https://github.com/KovenYu/WonderWorld)]
 
 
