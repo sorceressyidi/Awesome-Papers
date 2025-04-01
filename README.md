@@ -48,6 +48,7 @@ If you find this repository useful, please consider **STARing** ⭐ this reposit
 
 ### Human Pose Tracking / Human Pose Estimation
 
+* **HuMoR**: 3D Human Motion Model for Robust Pose Estimation, *ICCV 21*. [[Paper](https://geometry.stanford.edu/projects/humor/docs/humor.pdf)] [[Webpage](https://geometry.stanford.edu/projects/humor/)] [[Code](https://github.com/davrempe/humor)]
 * **Dynamic 3D Gaussians** : "Dynamic 3D Gaussians:Tracking by Persistent Dynamic View Synthesis", *International Conference on 3D Vision (3DV) 2024*. [[Paper](https://arxiv.org/pdf/2308.09713)] [[Webpage](https://dynamic3dgaussians.github.io/)] [[Code](https://github.com/JonathonLuiten/Dynamic3DGaussians)]
 
 * **Humans in 4D**: Reconstructing and Tracking Humans with Transformers, *ICCV 23*. [[Paper](https://arxiv.org/pdf/2305.20091)] [[Webpage](https://shubham-goel.github.io/4dhumans/)] [[Code](https://github.com/shubham-goel/4D-Humans)]
