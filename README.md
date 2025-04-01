@@ -25,7 +25,9 @@ If you find this repository useful, please consider **STARing** ⭐ this reposit
     - [VLLM](#vllm)
     - [Generative Models](#generative-models)
     - [3D Data Synthesis](#3d-data-synthesis)
+    - [Human Pose Tracking / Human Pose Estimation](#human-pose-tracking--human-pose-estimation-1)
   - [Awesome Robotics Papers](#awesome-robotics-papers)
+    - [Vision-Language-Action Models](#vision-language-action-models)
 
 ## Awesome Computer Vision Papers
 
@@ -122,6 +124,17 @@ with Temporal Gaussian Hierarchy", *SIGGRAPH Asia 2024 (TOG)*, [[Paper](https://
 * **MegaSynth**: "MegaSynth: scaling up feed-forward 3D scene reconstruction with synthesized scenes", *arxiv Dec 2024*. [[Paper](https://arxiv.org/pdf/2412.14166)] [[Webpage](https://hwjiang1510.github.io/MegaSynth/)] [[Code](https://github.com/hwjiang1510/MegaSynth)]
 
 ------------------------------
+
+### Human Pose Tracking / Human Pose Estimation
+
+------------------------------
+
 ## Awesome Robotics Papers
 
+### Vision-Language-Action Models
 * **OpenVLA**: "OpenVLA: An Open-Source Vision-Language-Action Model" *CoRL 2024*. [[Paper](https://arxiv.org/abs/2406.09246)] [[Webpage](https://openvla.github.io/)] [[Code](https://github.com/openvla/openvla)]
+
+* **$\Pi_0$**: "A Vision-Language-Action Flow Model for
+General Robot Control". [[Paper](https://www.physicalintelligence.company/download/pi0.pdf)] [[Webpage](https://www.physicalintelligence.company/blog/pi0)] [[Code](https://github.com/Physical-Intelligence/openpi)]
+
+------------------------------
