@@ -25,7 +25,6 @@ If you find this repository useful, please consider **STARing** ⭐ this reposit
     - [VLLM](#vllm)
     - [Generative Models](#generative-models)
     - [3D Data Synthesis](#3d-data-synthesis)
-    - [Human Pose Tracking / Human Pose Estimation](#human-pose-tracking--human-pose-estimation-1)
   - [Awesome Robotics Papers](#awesome-robotics-papers)
     - [Vision-Language-Action Models](#vision-language-action-models)
 
@@ -51,6 +50,7 @@ If you find this repository useful, please consider **STARing** ⭐ this reposit
 
 * **Dynamic 3D Gaussians** : "Dynamic 3D Gaussians:Tracking by Persistent Dynamic View Synthesis", *International Conference on 3D Vision (3DV) 2024*. [[Paper](https://arxiv.org/pdf/2308.09713)] [[Webpage](https://dynamic3dgaussians.github.io/)] [[Code](https://github.com/JonathonLuiten/Dynamic3DGaussians)]
 
+* **Humans in 4D**: Reconstructing and Tracking Humans with Transformers, *ICCV 23*. [[Paper](https://arxiv.org/pdf/2305.20091)] [[Webpage](https://shubham-goel.github.io/4dhumans/)] [[Code](https://github.com/shubham-goel/4D-Humans)]
 ------------------------------
 
 ### 4D Reconstruction
@@ -123,9 +123,6 @@ with Temporal Gaussian Hierarchy", *SIGGRAPH Asia 2024 (TOG)*, [[Paper](https://
 
 * **MegaSynth**: "MegaSynth: scaling up feed-forward 3D scene reconstruction with synthesized scenes", *arxiv Dec 2024*. [[Paper](https://arxiv.org/pdf/2412.14166)] [[Webpage](https://hwjiang1510.github.io/MegaSynth/)] [[Code](https://github.com/hwjiang1510/MegaSynth)]
 
-------------------------------
-
-### Human Pose Tracking / Human Pose Estimation
 
 ------------------------------
 
