@@ -28,6 +28,7 @@ If you find this repository useful, please consider **STARing** ⭐ this reposit
     - [3D Data Synthesis](#3d-data-synthesis)
   - [Awesome Robotics Papers](#awesome-robotics-papers)
     - [Vision-Language-Action Models](#vision-language-action-models)
+    - [Sim2Real/Real2Sim](#sim2realreal2sim)
 
 ## Awesome Computer Vision Papers
 
@@ -38,6 +39,8 @@ If you find this repository useful, please consider **STARing** ⭐ this reposit
 * **RoMa**: "RoMa: Robust Dense Feature Matching", *CVPR 2024*. [[Paper](https://arxiv.org/abs/2305.15404)] [[Webpage](https://parskatt.github.io/RoMa/)] [[Code](https://github.com/Parskatt/RoMa)]
 
 * **MatchAnything**: "MatchAnything: Universal Cross-Modality Image Matching with Large-Scale Pre-Training", *arXiv Jan 2025*. [[Paper](https://arxiv.org/abs/2501.07556)] [[Webpage](https://zju3dv.github.io/MatchAnything/)] [[Code](https://github.com/zju3dv/MatchAnything)]
+
+------------------------------
 
 ### 3D Gaussians and its Variants
 
@@ -50,9 +53,12 @@ If you find this repository useful, please consider **STARing** ⭐ this reposit
 ### Human Pose Tracking / Human Pose Estimation
 
 * **HuMoR**: 3D Human Motion Model for Robust Pose Estimation, *ICCV 21*. [[Paper](https://geometry.stanford.edu/projects/humor/docs/humor.pdf)] [[Webpage](https://geometry.stanford.edu/projects/humor/)] [[Code](https://github.com/davrempe/humor)]
+
 * **Dynamic 3D Gaussians** : "Dynamic 3D Gaussians:Tracking by Persistent Dynamic View Synthesis", *International Conference on 3D Vision (3DV) 2024*. [[Paper](https://arxiv.org/pdf/2308.09713)] [[Webpage](https://dynamic3dgaussians.github.io/)] [[Code](https://github.com/JonathonLuiten/Dynamic3DGaussians)]
 
 * **Humans in 4D**: Reconstructing and Tracking Humans with Transformers, *ICCV 23*. [[Paper](https://arxiv.org/pdf/2305.20091)] [[Webpage](https://shubham-goel.github.io/4dhumans/)] [[Code](https://github.com/shubham-goel/4D-Humans)]
+
+> My Personal Note for Diffusions in Motion: [[Diffusion in Motion](https://solid-citrus-f4e.notion.site/Diffusion-1cd41d453f588066b3a7f791533116f5)]
 ------------------------------
 
 ### RAFT
@@ -157,3 +163,9 @@ with Temporal Gaussian Hierarchy", *SIGGRAPH Asia 2024 (TOG)*, [[Paper](https://
 General Robot Control". [[Paper](https://www.physicalintelligence.company/download/pi0.pdf)] [[Webpage](https://www.physicalintelligence.company/blog/pi0)] [[Code](https://github.com/Physical-Intelligence/openpi)]
 
 ------------------------------
+
+### Sim2Real/Real2Sim
+
+* **ReBot**: Scaling Robot Learning with Real-to-Sim-to-Real Robotic Video Synthesis, *arXiv 2025* [[Paper](https://arxiv.org/abs/2503.14526)] 
+
+* **RoboVerse**: Towards a Unified Platform, Dataset and Benchmark for Scalable and Generalizable Robot Learning, *arXiv 2025* [[Webpage](https://roboverseorg.github.io)] [[Code](https://github.com/RoboVerseOrg/RoboVerse)]
