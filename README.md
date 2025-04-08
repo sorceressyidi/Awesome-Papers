@@ -19,6 +19,7 @@ If you find this repository useful, please consider **STARing** ⭐ this reposit
     - [Matching](#matching)
     - [3D Gaussians and its Variants](#3d-gaussians-and-its-variants)
     - [Human Pose Tracking / Human Pose Estimation](#human-pose-tracking--human-pose-estimation)
+    - [RAFT](#raft)
     - [4D Reconstruction](#4d-reconstruction)
       - [Monocular Dynamic Reconstruction](#monocular-dynamic-reconstruction)
     - [Robust, Calibration-free Reconstruction](#robust-calibration-free-reconstruction)
@@ -54,6 +55,22 @@ If you find this repository useful, please consider **STARing** ⭐ this reposit
 * **Humans in 4D**: Reconstructing and Tracking Humans with Transformers, *ICCV 23*. [[Paper](https://arxiv.org/pdf/2305.20091)] [[Webpage](https://shubham-goel.github.io/4dhumans/)] [[Code](https://github.com/shubham-goel/4D-Humans)]
 ------------------------------
 
+### RAFT
+
+* **RAFT**: Recurrent All-Pairs Field Transforms for **Optical Flow**, *ECCV 2020* [[Paper](https://arxiv.org/pdf/2003.12039)] [[Code](https://github.com/princeton-vl/RAFT)]
+
+* **RAFT-Stereo**: Multilevel Recurrent Field Transforms for **Stereo Matching**, *3DV 2021* [[Paper](https://arxiv.org/abs/2109.07547)] [[Code](https://github.com/princeton-vl/RAFT-Stereo)]
+
+> We only have to `scan` a `line` for correspondence [Epipolar Geometry]
+
+* **RAFT-3D**: Scene Flow using Rigid-Motion Embeddings, *CVPR 2021* [[Paper](https://arxiv.org/abs/2012.00726)] [[Code](https://github.com/princeton-vl/RAFT-3D)]
+
+* **DROID-SLAM**: Deep Visual SLAM for Monocular, Stereo, and RGB-D Cameras, *Neurips 2021* [[Paper](https://arxiv.org/abs/2108.10869)] [[Code](https://github.com/princeton-vl/DROID-SLAM)]
+
+* **MegaSaM** :"Accurate, Fast and Robust Structure and Motion from Casual Dynamic Videos", *arXiv Dec 2024*. [[Paper](https://arxiv.org/pdf/2412.04463)] [[Webpage](https://mega-sam.github.io/)][[Code](https://github.com/mega-sam/mega-sam)]
+
+
+------------------------------
 ### 4D Reconstruction
 
 * **4D Gaussian Splatting** : "Real-time Photorealistic Dynamic Scene Representation and Rendering with 4D Gaussian Splatting", *ICLR 2024*. [[Paper](https://arxiv.org/pdf/2310.10642)] [[Webpage](https://fudan-zvg.github.io/4d-gaussian-splatting/)] [[Code](https://github.com/fudan-zvg/4d-gaussian-splatting)]
@@ -131,6 +148,10 @@ with Temporal Gaussian Hierarchy", *SIGGRAPH Asia 2024 (TOG)*, [[Paper](https://
 
 ### Vision-Language-Action Models
 * **OpenVLA**: "OpenVLA: An Open-Source Vision-Language-Action Model" *CoRL 2024*. [[Paper](https://arxiv.org/abs/2406.09246)] [[Webpage](https://openvla.github.io/)] [[Code](https://github.com/openvla/openvla)]
+
+* **Octo**: An Open-Source Generalist Robot Policy, *RSS 2024* [[Paper](https://arxiv.org/pdf/2405.12213)] [[Webpage](https://octo-models.github.io/)] [[Code](https://github.com/octo-models/octo)]
+
+* **SimplerEnv**: Simulated Manipulation Policy Evaluation Environments for Real Robot Setups, *CoRL 2024* [[Paper](https://arxiv.org/pdf/2405.05941)] [[Webpage](https://simpler-env.github.io/)] [[Code](https://github.com/simpler-env/SimplerEnv)]
 
 * **$\Pi_0$**: "A Vision-Language-Action Flow Model for
 General Robot Control". [[Paper](https://www.physicalintelligence.company/download/pi0.pdf)] [[Webpage](https://www.physicalintelligence.company/blog/pi0)] [[Code](https://github.com/Physical-Intelligence/openpi)]
